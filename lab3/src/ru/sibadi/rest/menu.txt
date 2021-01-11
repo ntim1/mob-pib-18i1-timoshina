@@ -1,0 +1,1 @@
+Whiskey 500.0\Wine 800.0\Cocktail 300.0\Vodka 1000.0\Water 100.0\Shrimp 500.0\
